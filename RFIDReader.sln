@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RFIDReader", "RFIDReader\RFIDReader.vcxproj", "{77C035B6-A04E-41FA-8F74-757C2321CE51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C035B6-A04E-41FA-8F74-757C2321CE51}.Debug|x64.ActiveCfg = Debug|x64
+		{77C035B6-A04E-41FA-8F74-757C2321CE51}.Debug|x64.Build.0 = Debug|x64
+		{77C035B6-A04E-41FA-8F74-757C2321CE51}.Debug|x86.ActiveCfg = Debug|Win32
+		{77C035B6-A04E-41FA-8F74-757C2321CE51}.Debug|x86.Build.0 = Debug|Win32
+		{77C035B6-A04E-41FA-8F74-757C2321CE51}.Release|x64.ActiveCfg = Release|x64
+		{77C035B6-A04E-41FA-8F74-757C2321CE51}.Release|x64.Build.0 = Release|x64
+		{77C035B6-A04E-41FA-8F74-757C2321CE51}.Release|x86.ActiveCfg = Release|Win32
+		{77C035B6-A04E-41FA-8F74-757C2321CE51}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54C6B5CC-723E-4FA0-9FE0-0D4F873008B6}
+	EndGlobalSection
+EndGlobal
